@@ -3,6 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package br.com.infox.telas;
+import java.sql.*;
+import br.com.infox.dal.ModuloConexao;
 
 /**
  *
